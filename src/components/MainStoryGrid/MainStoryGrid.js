@@ -56,7 +56,7 @@ const Wrapper = styled.div`
 			"main-story secondary-stories"
 			"advertisement advertisement"
 			"opinion-stories opinion-stories";
-		grid-template-columns: 1fr 250px;
+		grid-template-columns: 2fr 1fr;
 		grid-column-gap: 0;
 	}
 
