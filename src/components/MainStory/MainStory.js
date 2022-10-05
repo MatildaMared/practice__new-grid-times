@@ -48,7 +48,7 @@ const Abstract = styled.p`
 	}
 
 	@media ${QUERIES.desktopAndUp} {
-		-webkit-line-clamp: 8;
+		-webkit-line-clamp: 10;
 	}
 `;
 
